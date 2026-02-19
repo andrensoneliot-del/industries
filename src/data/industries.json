@@ -1,0 +1,90 @@
+[
+    {
+        "id": "automotive",
+        "name": "Automotive",
+        "slug": "automotive-industry",
+        "description": "Reliable compressed air solutions for automotive manufacturing, painting, and assembly lines.",
+        "icon": "🚗",
+        "href": "/industries/automotive-industry"
+    },
+    {
+        "id": "medical",
+        "name": "Medical",
+        "slug": "medical-industry",
+        "description": "Oil-free, clean air systems for hospitals, clinics, and pharmaceutical manufacturing.",
+        "icon": "🏥",
+        "href": "/industries/medical-industry"
+    },
+    {
+        "id": "food-beverage",
+        "name": "Food & Beverage",
+        "slug": "food-and-beverage-industry",
+        "description": "Hygienic, contamination-free compressed air for food processing and packaging.",
+        "icon": "🍽️",
+        "href": "/industries/food-and-beverage-industry"
+    },
+    {
+        "id": "chemical",
+        "name": "Chemical",
+        "slug": "chemical-industry",
+        "description": "Robust compressors for chemical processing, handling corrosive environments safely.",
+        "icon": "⚗️",
+        "href": "/industries/chemical-industry"
+    },
+    {
+        "id": "packaging",
+        "name": "Packaging",
+        "slug": "packaging-industry",
+        "description": "High-efficiency air supply for packaging lines, blow moulding, and sealing.",
+        "icon": "📦",
+        "href": "/industries/packaging-industry"
+    },
+    {
+        "id": "textile",
+        "name": "Textile",
+        "slug": "textile-industry",
+        "description": "Continuous, oil-free compressed air for spinning, weaving, and dyeing processes.",
+        "icon": "🧵",
+        "href": "/industries/textile-industry"
+    },
+    {
+        "id": "pharmaceutical",
+        "name": "Pharmaceutical",
+        "slug": "pharmaceutical-industry",
+        "description": "ISO-compliant, ultra-clean air for drug manufacturing and laboratory applications.",
+        "icon": "💊",
+        "href": "/industries/pharmaceutical-industry"
+    },
+    {
+        "id": "glass",
+        "name": "Glass Industry",
+        "slug": "glass-industry",
+        "description": "High-pressure air systems for glass forming, shaping, and tempering processes.",
+        "icon": "🔷",
+        "href": "/industries/glass-industry"
+    },
+    {
+        "id": "iron-steel",
+        "name": "Iron & Steel",
+        "slug": "iron-and-steel-industry",
+        "description": "Heavy-duty compressors for blast furnaces, rolling mills, and steel processing.",
+        "icon": "⚙️",
+        "href": "/industries/iron-and-steel-industry"
+    },
+    {
+        "id": "shipping",
+        "name": "Shipping",
+        "slug": "shipping-industry",
+        "description": "Marine-grade compressed air systems for ports, shipyards, and vessel operations.",
+        "icon": "🚢",
+        "href": "/industries/shipping-industry"
+    },
+    {
+        "id": "pet-bottling",
+        "name": "Pet Bottling",
+        "slug": "pet-bottling-industry",
+        "description": "High-pressure scroll and screw compressors for PET bottle blowing applications.",
+        "icon": "🍶",
+        "href": "/industries/pet-bottling-industry"
+    }
+]

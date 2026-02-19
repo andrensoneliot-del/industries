@@ -1,0 +1,40 @@
+{
+  "parent": {
+    "id": "airflow-industries",
+    "name": "Airflow Industries",
+    "tagline": "Powering Industries Since 1990",
+    "description": "Airflow Industries is a leading supplier and distributor of industrial air compressors, vacuum pumps, and pneumatic equipment in Mumbai, India. We are an authorized distributor of Anest Iwata and Festo products, providing best-in-class equipment backed by prompt after-sales services.",
+    "email": "info@airflowindustries.com",
+    "phone": "+91 – 22 – 40123456",
+    "phoneAlt": "+91 – 22 – 40123457",
+    "customerService": "+91-98765 12345",
+    "sales": "+91 87654 09876",
+    "address": "Empire House, Senapati Bapat Marg, Lower Parel, Mumbai 400013",
+    "addressBranch": "Plot No. 42, Sector 19A, Vashi, Navi Mumbai 400703",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "established": "1990"
+  },
+  "stats": {
+    "installations": 1000,
+    "customers": 500,
+    "years": 35,
+    "countries": 10,
+    "industries": 11
+  },
+  "children": [
+    {
+      "id": "anest-iwata",
+      "name": "Anest Iwata",
+      "specialty": "Authorized Distributor",
+      "description": "Premium air compressors made in India, exported to Japan, USA & more"
+    },
+    {
+      "id": "festo",
+      "name": "Festo",
+      "specialty": "Pneumatics & Automation",
+      "description": "Globally recognized pneumatic & electrical control systems"
+    }
+  ]
+}
